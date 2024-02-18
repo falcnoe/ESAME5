@@ -384,7 +384,7 @@ padding-top: 40px;
           text-decoration: none;
           color: #000000;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:1000px) {
  .sottotesto2bold,.sottotestoprogetto, .primotesto, .sottotesto, .secondotesto, .scopri, .nomi, .nomeultimo,.sottotesto2,.sottotesto3,.sottotesto4,.sottotesto2bold,.sottotestomaestripagine{
     padding-left: 3%;
     
